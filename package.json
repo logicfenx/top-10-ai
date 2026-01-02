@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/top-10-ai",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a top-10-ai",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/top-10-ai.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/en/top-10-ai-and-technology-leadership/"
+    },
+    "homepage": "https://isproto.com/en/top-10-ai-and-technology-leadership/"
+}
